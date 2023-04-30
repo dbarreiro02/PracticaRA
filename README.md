@@ -1,4 +1,4 @@
-¡Bienvenido a ELrepositorio de la práctica de realidad aumentada en Unity 3D!
+¡Bienvenido a el repositorio de la práctica de realidad aumentada en Unity 3D!
 
 Este proyecto es una aplicación de realidad aumentada que consiste en construir y derribar torres virtuales. El juego se basa en la búsqueda de un activador, que al ser detectado por la cámara AR, muestra la torre correspondiente al activador y se inicia el juego. El objetivo del juego es lanzar bolas virtuales para derribar la mayor cantidad de ladrillos posibles, alcanzando un porcentaje de derribos establecido en la configuración.
 
